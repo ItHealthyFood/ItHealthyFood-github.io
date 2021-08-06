@@ -1,1 +1,1 @@
-# ItHealthyFood-github.io
+# ItHealthyFood.github.io
