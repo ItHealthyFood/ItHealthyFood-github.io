@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+	
+}
+.nav{
+	background-color: #ead299;
+	height: 80px;
+	padding-left: 20px;
+}
+.content, .footer{
+	background-color: #A5BF7E;
+	position: relative;
+}
+img{
+	height: 130px;
+	margin-top: -20px;
+}
+.nav ul li{ 
+	display: inline;
+	padding: 0 30px;
+	font-size: 18px;
+}
+.nav img{
+	float: left;
+}
+.nav ul{
+	float: right;
+	padding-top: 30px;
+}
+.noidung1{
+	background-image: url("23-min.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+	text-align: center;
+}
+.noidung1 h1{
+	color: white;
+	font-size: 60px;
+	padding-top: 150px;
+}
+.noidung1 h2{
+	color: white;
+}
+.anh1{
+	background-image: url("ola-mishchenko-VRB1LJoTZ6w-unsplash.jpg");
+}
+.anh2{
+	background-image: url("jannis-brandt-8manzosDSGM-unsplash.jpg");
+}
+.anh3{
+	background-image: url("ella-olsson-sosOqjx31Go-unsplash.jpg");
+}
+.anh4{
+	background-image: url("rui-silvestre-D3lKRy7A_FY-unsplash.jpg");
+}
+.hinh{
+	width: 20%;
+	height: 100%;
+}
+.noidung2 img{
+	height: 180px;
+	width: 20%;
+	position: relative;
+}
+.bonanh{
+	text-align: center;
+	padding-top: 30px;
+}
+.noidung2{
+	padding: 80px;
+	position: relative;
+}
+.noidung3{
+	background-color: #ead299;
+	position: relative;
+	color: white;
+	padding-top: 5%;
+}
+.chuale{
+	padding: 0 10%;
+}
+.noidung3 .bentrai{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.noidung3 .bentrai img{
+	height: 250px;
+}
+.noidung3 .benphai img{
+	height: 250px;
+}
+.noidung3 .benphai{
+	text-align: center;
+}
+.noidung4 img{
+	height:250px;
+	float: left;
+	padding-top: 25px;
+}
+.noidung4{
+	height: 500px;
+}
+.noidung4 h2,h3{
+	padding: 10px 0 0 20px;
+}
+.chuphai{
+	float: right;
+	width: 50%;
+}
+.hinhmap{
+	float: left;
+}
+.footer h5{
+	text-align: center;
+}
